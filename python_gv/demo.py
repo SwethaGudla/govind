@@ -5,7 +5,7 @@ if no>1:
             print('not  a primenumber',no)
             break
     else:
-        print('primenuber')
+        print('primenuber')# prime num progrm
 
 
 
